@@ -79,3 +79,4 @@ while running:
     clock.tick(60)
 
 pg.quit()
+exit()
